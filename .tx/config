@@ -2,6 +2,8 @@
 host = https://www.transifex.com
 lang_map = th_TH:th,es_ES: es, fr_FR: fr, ko_KR: ko, pt_PT: pt, sk_SK: sk, vi_VN: vi
 
+trans.th_TH = config/locales/client.th.yml
+
 [discourse-org.clientenyml]
 file_filter = config/locales/client.<lang>.yml
 source_file = config/locales/client.en.yml
